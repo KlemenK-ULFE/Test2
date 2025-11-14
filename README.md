@@ -1,1 +1,3 @@
 # Test2
+
+Na tem repozitoriju je shranjena koda za optimzacijo z GA...
