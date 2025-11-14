@@ -3,6 +3,19 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+#ZDej sm pa dodal da mam GPU
+
+ads
+as
+ads
+ads
+asd
+asd
+asd
+das
+as
+
+
 class MLP(nn.Module):
     def __init__(self, in_dim, out_dim, hidden=128, depth=2, act=nn.ReLU):
         super().__init__()
